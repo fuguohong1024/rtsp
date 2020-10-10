@@ -22,7 +22,7 @@ import (
 	"github.com/deepch/vdk/codec"
 	"github.com/deepch/vdk/codec/aacparser"
 	"github.com/deepch/vdk/codec/h264parser"
-	"rtsp/sdp"
+	"github.com/fuguohong1024/rtsp/sdp"
 	"github.com/deepch/vdk/utils/bits/pio"
 )
 

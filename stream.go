@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/deepch/vdk/av"
-	"rtsp/sdp"
+	"github.com/fuguohong1024/rtsp/sdp"
 )
 
 type Stream struct {
