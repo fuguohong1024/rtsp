@@ -1,4 +1,4 @@
-module rtsp
+module github.com/fuguohong1024/rtsp
 
 go 1.14
 
